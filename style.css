@@ -1,0 +1,49 @@
+body {
+}
+
+form {
+  padding: 2rem;
+
+  position: relative;
+  position: relative;
+  width: auto;
+  height: auto;
+  font-size: 20px;
+  font-family: montserrat;
+}
+label,
+select,
+input,
+button {
+  display: block;
+  gap: 2px;
+  padding-bottom: 10px;
+
+  font-family: montserrat;
+}
+.form-felt {
+  width: auto;
+  height: auto;
+  margin: 5px auto;
+}
+input {
+  display: block;
+  gap: 2px;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+.knap {
+  align-items: center;
+  display: inline-block;
+
+  font-size: 16px;
+  line-height: 20px;
+  border-radius: 6px;
+  padding: 4px 8px;
+
+  border: 1px solid black;
+  color: black;
+}
+button:hover {
+  color: white;
+}
